@@ -6,3 +6,5 @@ Author (Abdul Haseeb)
 add new file
 <br>
 making notes of git/github
+<br>
+i learned a branches concept in git/github
