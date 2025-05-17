@@ -8,3 +8,5 @@ add new file
 making notes of git/github
 <br>
 i learned a branches concept in git/github
+<br>
+git commit -a -m "Your commit message"
