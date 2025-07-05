@@ -10,3 +10,6 @@ making notes of git/github
 i learned a branches concept in git/github
 <br>
 git commit -a -m "Your commit message"
+<br>
+i am at branch feature1
+g
